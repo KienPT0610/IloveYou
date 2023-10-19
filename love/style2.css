@@ -22,7 +22,7 @@ body{
     width: 40%;
     left: 50%;
     transform: translateX(-50%);
-    background-image: url("/Emyeu/image/background1.jpg");
+    background-image: url("/image/background1.jpg");
     background-size: 100%;
     display: flex;
     flex-direction: column;
